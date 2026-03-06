@@ -19,7 +19,7 @@ The app uses a **KNN classifier (k=2)** with **StandardScaler** preprocessing, a
 
 ## 🖥️ Live Demo
 
-🔗 **[Launch the app on MyBinder](https://mybinder.org/v2/gh/YOUR-USERNAME/breast-cancer-predictor/main?urlpath=voila/render/breast_cancer_voila.ipynb)**
+🔗 **[Launch the app on MyBinder](https://img.shields.io/badge/Live%20Demo-MyBinder-blue?style=for-the-badge)](https://mybinder.org/v2/gh/nourmaghraoui-a11/breast-cancer-predictor/main?urlpath=voila/render/breast_cancer_voila.ipynb)**
 
 > ⚠️ First load may take 2–3 minutes while the environment builds.
 
